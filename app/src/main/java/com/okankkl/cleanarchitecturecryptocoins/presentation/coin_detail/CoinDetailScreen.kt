@@ -129,7 +129,8 @@ fun CoinDetailScreen(
                 modifier = Modifier
                     .fillMaxWidth()
                     .padding(20.dp)
-                    .align(Alignment.Center)
+                    .align(Alignment.Center),
+                color = MaterialTheme.colorScheme.error
             )
         }
     }
