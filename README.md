@@ -18,5 +18,5 @@ presentation
 
 (these are package names)
 
-![application ui](https://github.com/Slankss/CleanArchitectureCryptoCoins/blob/master/assets/ss1.jpg)
+![application ui](https://github.com/Slankss/CleanArchitectureCryptoCoins/blob/master/assets/ss1.jpg){:height = "100",width="100"}
 ![application ui](https://github.com/Slankss/CleanArchitectureCryptoCoins/blob/master/assets/ss2.jpg)
