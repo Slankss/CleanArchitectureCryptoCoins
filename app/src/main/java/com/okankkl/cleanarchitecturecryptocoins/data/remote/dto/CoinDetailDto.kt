@@ -40,6 +40,7 @@ fun CoinDetailDto.toCoinDetail() : CoinDetail {
         rank = rank,
         tags = tags.map { it.name },
         team = team,
-        hash_algorithm = hash_algorithm
+        hash_algorithm = hash_algorithm,
+        is_active = is_active
     )
 }

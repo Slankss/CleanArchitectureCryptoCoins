@@ -9,6 +9,7 @@ data class CoinDetail (
     val description: String,
     val logo: String,
     val started_at: String,
+    val is_active : Boolean,
     val symbol: String,
     val rank: Int,
     val tags: List<String>,
