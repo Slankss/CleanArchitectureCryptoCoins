@@ -18,6 +18,7 @@ presentation
 
 (these are package names)
 
+<h2> Application Screenshots</h2>
 <img src="https://github.com/Slankss/CleanArchitectureCryptoCoins/blob/master/assets/ss1.jpg" width="340" height="720" alt="image description">
 <img src="https://github.com/Slankss/CleanArchitectureCryptoCoins/blob/master/assets/ss2.jpg" width="340" height="720" alt="image description">
 
