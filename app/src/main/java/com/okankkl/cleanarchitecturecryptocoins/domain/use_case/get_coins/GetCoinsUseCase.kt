@@ -1,5 +1,4 @@
 package com.okankkl.cleanarchitecturecryptocoins.domain.use_case.get_coins
-
 import android.net.http.HttpException
 import android.os.Build
 import androidx.annotation.RequiresExtension
@@ -11,7 +10,6 @@ import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow
 import java.io.IOException
 import javax.inject.Inject
-
 class GetCoinsUseCase @Inject constructor(
     private val repository: CoinRepository
 ) {
